@@ -59,7 +59,7 @@ p:first-letter, h1:first-letter, h2:first-letter, h3:first-letter, h4:first-lett
 }
 .light-green-bg
 {
-    background: var(--light-green-bg);
+    background: var(    --secondary-clr);
 }
 .txt-green
 {
